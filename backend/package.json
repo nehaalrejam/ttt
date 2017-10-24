@@ -1,0 +1,16 @@
+{
+  "name": "Numadic",
+  "private": true,
+  "version": "0.0.0",
+  "description": "application",
+  "keywords": [],
+  "dependencies": {
+    "body-parser": "^1.18.2",
+    "express": "^4.16.2",
+    "request": "^2.83.0",
+    "underscore": "^1.8.3"
+  },
+  "main": "app.js",
+  "author": "",
+  "license": ""
+}
