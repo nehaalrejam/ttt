@@ -91,4 +91,3 @@ http {
 ### Check
 
 On your browser, please go to the IP: http://54.164.100.150/
-GitHub link for the project: https://github.com/nehaalrejam/ttt
